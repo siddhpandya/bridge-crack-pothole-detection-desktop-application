@@ -27,5 +27,5 @@ Develop a prototype desktop application to improve road safety by identifying an
 [![Watch the demo](https://img.youtube.com/vi/TYyc1pZE3tQ/hqdefault.jpg)](https://www.youtube.com/watch?v=TYyc1pZE3tQ)
 
 ## LinkedIn Post
-[Check out the LinkedIn post about the project]([https://www.linkedin.com/posts/YOUR_POST_ID](https://www.linkedin.com/posts/siddh-pandya_roadsafety-pythonprogramming-machinelearning-activity-7210258952297586688-0KmB?utm_source=share&utm_medium=member_desktop))
+[Check out the LinkedIn post about the project](https://www.linkedin.com/posts/siddh-pandya_roadsafety-pythonprogramming-machinelearning-activity-7210258952297586688-0KmB?utm_source=share&utm_medium=member_desktop)
 [Check out the LinkedIn post about the project]([https://www.linkedin.com/posts/YOUR_POST_ID](https://www.linkedin.com/posts/siddh-pandya_roadsafety-pythonprogramming-machinelearning-activity-7210258952297586688-0KmB?utm_source=share&utm_medium=member_desktop))
