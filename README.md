@@ -28,3 +28,4 @@ Develop a prototype desktop application to improve road safety by identifying an
 
 ## LinkedIn Post
 [Check out the LinkedIn post about the project]([https://www.linkedin.com/posts/YOUR_POST_ID](https://www.linkedin.com/posts/siddh-pandya_roadsafety-pythonprogramming-machinelearning-activity-7210258952297586688-0KmB?utm_source=share&utm_medium=member_desktop))
+[Check out the LinkedIn post about the project]([https://www.linkedin.com/posts/YOUR_POST_ID](https://www.linkedin.com/posts/siddh-pandya_roadsafety-pythonprogramming-machinelearning-activity-7210258952297586688-0KmB?utm_source=share&utm_medium=member_desktop))
